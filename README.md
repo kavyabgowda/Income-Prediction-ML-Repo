@@ -1,6 +1,6 @@
 # Income-Prediction-ML-Repo
 
-This Project demonstrates solving Income Predictions for datasets available in "https://www.kaggle.com/c/tcd-ml-comp-201920-income-pred-group/data". Various methodologies are followed in this project to clean the data, process the data and fit the data to the best available model to get the error rate of 9.78k. The problem statement for this project is available at "https://www.kaggle.com/c/tcd-ml-comp-201920-income-pred-group/overview".
+This Project demonstrates solving Income Predictions for datasets available in "https://www.kaggle.com/c/tcdml1920-income-ind/data". Various methodologies are followed in this project to clean the data, process the data and fit the data to the best available model to get the error rate of 67k. The problem statement for this project is available at "https://www.kaggle.com/c/tcdml1920-income-ind/overview".
 
 ## Methodologies to be followed in using project:
 Required Dependencies:
@@ -12,7 +12,7 @@ numpy, pandas, sklearn
 ```
 3. Execute Final_Submission_LightGbm.py in Python Console.
 
-4. This code fit the data to LightGbm model. If required change the model parameters and check the accuracy of model.
+4. This code fit the data to Random Forest model. If required change the model to LightGbm and check the accuracy of model.
 
 5. Check the accuracy of model by executing the model.
 
